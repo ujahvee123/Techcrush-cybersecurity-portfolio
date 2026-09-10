@@ -1,0 +1,6 @@
+09:14:22 - Unusual authentication observed
+09:18:41 - Persistence mechanism created
+09:24:12 - Discovery activity observed
+09:31:05 - Authentication attempt against FS01
+09:35:18 - Successful authentication against FS01
+09:44:51 - Large outbound connection detected

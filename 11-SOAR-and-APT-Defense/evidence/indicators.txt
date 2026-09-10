@@ -1,0 +1,16 @@
+Potential Indicators
+
+Source IP: 203.0.113.50
+User: alice
+Host: WIN10-01
+Target: FS01
+Potential Target: DC01
+
+Behavioral Indicators:
+- Unusual authentication
+- Scheduled task creation
+- Discovery activity
+- Lateral movement (attempted and achieved)
+- Large outbound connection
+
+Note: 203.0.113.50 is a documentation/test IP used in this lab. Do not treat it as a real malicious IP
