@@ -1,0 +1,6 @@
+ALERT-001 | Low | Windows Defender signature update successful | HOST-WS01
+ALERT-002 | Medium | 14 failed SSH logins from external IP | LINUX01
+ALERT-003 | Informational | User successfully logged in | HOST-WS03
+ALERT-004 | High | New administrator account created | WIN-SRV01
+ALERT-005 | Low | Blocked outbound connection to known advertising domain | HOST-WS07
+ALERT-006 | Medium | Multiple DNS requests to suspicious domain | HOST-WS04

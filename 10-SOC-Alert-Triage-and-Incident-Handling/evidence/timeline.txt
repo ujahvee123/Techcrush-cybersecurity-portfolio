@@ -1,0 +1,5 @@
+02:10:11 - Failed authentication against alice
+02:10:34 - Failed authentication against root
+02:10:49 - Failed authentication against admin
+02:11-02:13 - Repeated authentication failures across alice, root, admin
+02:14:02 - Successful authentication as alice

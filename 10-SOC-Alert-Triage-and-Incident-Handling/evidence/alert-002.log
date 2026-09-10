@@ -1,0 +1,15 @@
+2026-09-05 02:10:11 LINUX01 sshd: Failed password for alice from 203.0.113.50
+2026-09-05 02:10:22 LINUX01 sshd: Failed password for alice from 203.0.113.50
+2026-09-05 02:10:34 LINUX01 sshd: Failed password for root from 203.0.113.50
+2026-09-05 02:10:49 LINUX01 sshd: Failed password for admin from 203.0.113.50
+2026-09-05 02:11:03 LINUX01 sshd: Failed password for alice from 203.0.113.50
+2026-09-05 02:11:17 LINUX01 sshd: Failed password for alice from 203.0.113.50
+2026-09-05 02:11:35 LINUX01 sshd: Failed password for root from 203.0.113.50
+2026-09-05 02:11:51 LINUX01 sshd: Failed password for admin from 203.0.113.50
+2026-09-05 02:12:10 LINUX01 sshd: Failed password for alice from 203.0.113.50
+2026-09-05 02:12:26 LINUX01 sshd: Failed password for alice from 203.0.113.50
+2026-09-05 02:12:44 LINUX01 sshd: Failed password for root from 203.0.113.50
+2026-09-05 02:13:01 LINUX01 sshd: Failed password for admin from 203.0.113.50
+2026-09-05 02:13:20 LINUX01 sshd: Failed password for alice from 203.0.113.50
+2026-09-05 02:13:41 LINUX01 sshd: Failed password for alice from 203.0.113.50
+2026-09-05 02:14:02 LINUX01 sshd: Accepted password for alice from 203.0.113.50
