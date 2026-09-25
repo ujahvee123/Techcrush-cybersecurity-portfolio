@@ -19,8 +19,7 @@ The key distinguishing factor whether targeted usernames were valid accounts and
 Threat hunting methodology, hypothesis development and testing, Linux log analysis, comparative risk assessment, detection engineering fundamentals.
 
 ## Tools Used
-- Bash (Ubuntu)
-- grep, sort, uniq
+- Ubuntu
 
 ## Files
 - `evidence/` — raw authentication log and event timeline
