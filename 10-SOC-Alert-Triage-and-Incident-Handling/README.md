@@ -20,4 +20,3 @@ SOC alert triage, prioritization reasoning, Linux log analysis, event correlatio
 
 ## Tools Used
 - Ubuntu
-- grep, wc, sort, uniq
