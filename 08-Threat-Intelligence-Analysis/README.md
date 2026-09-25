@@ -13,5 +13,5 @@ See [reports/threat-intelligence-report.md](./reports/threat-intelligence-report
 Threat intelligence fundamentals, IOC identification, log analysis (grep/sort/uniq), risk assessment, cautious evidence-based reporting.
 
 ## Tools Used
-- Bash (Ubuntu)
-- grep, sort, uniq
+- Ubuntu
+
