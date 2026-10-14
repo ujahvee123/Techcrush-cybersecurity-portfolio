@@ -1,7 +1,7 @@
 # Capstone Project: Incident Response Playbooks
 
 ## Overview
-This project was completed as part of the TechCrush Cybersecurity Track Cohort 8 capstone, developed collaboratively by an 18-person team (Group 24). It designs three incident response playbooks — phishing, ransomware, and distributed denial-of-service (DDoS), plus a reusable post-incident review template, for a fictional cloud service provider, TechCrush Group 24.
+This project was completed as part of the TechCrush Cybersecurity Track Cohort 8 capstone, developed collaboratively by my Group. It designs three incident response playbooks: phishing, ransomware, and distributed denial-of-service (DDoS), plus a reusable post-incident review template, for a fictional cloud service provider, TechCrush Group 24.
 
 ## Objective
 Develop standardized, repeatable incident response procedures that let security personnel detect, contain, eradicate, and recover from real-world threats consistently, while improving coordination between the SOC, IT, management, and other teams during an active incident.
