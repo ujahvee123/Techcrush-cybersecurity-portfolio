@@ -17,3 +17,6 @@ My hands-on cybersecurity learning projects and SOC analyst evidence, built duri
 | 09 | [Proactive Threat Hunting: Credential-Guessing Activity](./09-Proactive-Threat-Hunting) | Threat hunting methodology, hypothesis testing, comparative risk assessment, detection engineering fundamentals |
 | 10 | [SOC Alert Triage and Incident Handling](./10-SOC-Alert-Triage-and-Incident-Handling) | Alert prioritization reasoning, Linux log analysis, event correlation, incident severity assessment |
 | 11 | [SOAR Automation and APT Defense](./11-SOAR-and-APT-Defense) | SOAR/automation design, APT lifecycle analysis, attack-chain correlation, severity vs. confidence assessment |
+| 12 | [Capstone: Network Design, Recon and Securing Data Transmission](./12-Capstone-Network-Security-Design) | VLAN segmentation, Nmap reconnaissance, Wireshark analysis, encryption vs. hashing, secure transfer |
+| 13 | [Capstone: Incident Response Playbooks](./13-Capstone-Incident-Response-Playbooks) | IR lifecycle design, phishing/ransomware/DDoS playbooks, roles and metrics, post-incident review |
+| 14 | [Capstone: SIEM Deployment (Splunk)](./14-Capstone-SIEM-Deployment) | Splunk deployment, Windows/Linux log ingestion, attack simulation, MITRE ATT&CK-mapped incident report |
