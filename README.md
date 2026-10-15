@@ -1,4 +1,4 @@
-# Cybersecurity Portfolio
+# Techcrush Cybersecurity Portfolio
 
 My hands-on cybersecurity learning projects and SOC analyst evidence, built during the TechCrush Cybersecurity Bootcamp.
 
